@@ -66,8 +66,8 @@ export default function Skills() {
       title: "開発環境",
       skills: [
         { name: "VSCode", icon: <TbBrandVscode className={`${ICON_SIZE} text-[#007ACC]`} /> },
-        { name: "Cursor", icon: <img src="/icons/cursor.ico" alt="Cursor" className={`${ICON_SIZE} object-contain`} /> },
-        { name: "Devin", icon: <img src="/icons/devin.ico" alt="Devin" className={`${ICON_SIZE} object-contain`} /> },
+        { name: "Cursor", icon: <img src={`${import.meta.env.BASE_URL}icons/cursor.ico`} alt="Cursor" className={`${ICON_SIZE} object-contain`} /> },
+        { name: "Devin", icon: <img src={`${import.meta.env.BASE_URL}icons/devin.ico`} alt="Devin" className={`${ICON_SIZE} object-contain`} /> },
         { name: "Claude Code", icon: <SiClaude className={`${ICON_SIZE} text-[#D4A574]`} /> },
         { name: "Eclipse", icon: <SiEclipseide className={`${ICON_SIZE} text-[#2C2255]`} /> },
       ]
