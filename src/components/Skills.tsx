@@ -4,7 +4,7 @@ import Section from './Section';
 import { 
   SiReact, SiTypescript, SiJavascript, SiHtml5,
   SiTailwindcss, SiPython, SiSpringboot, 
-  SiFirebase, SiGithub, SiGithubactions, SiGitlab, SiSelenium,
+  SiFirebase, SiGithub, SiGitlab, SiSelenium,
   SiJquery, SiVitest, SiClaude, SiEclipseide
 } from 'react-icons/si';
 import { FaJava, FaAws, FaCss3 } from 'react-icons/fa';
