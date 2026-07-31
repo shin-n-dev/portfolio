@@ -19,7 +19,7 @@ export default function Contact() {
       id: "email",
       label: "メール",
       icon: <FiMail />,
-      text: "shinnosuke.nonaka.work@gmail.com",
+      text: "こちらから連絡",
       href: "mailto:shinnosuke.nonaka.work@gmail.com",
     },
     {

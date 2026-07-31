@@ -28,7 +28,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: TRANSITION_DELAY_STEP * 1 }}
           className="text-3xl md:text-4xl lg:text-5xl font-semibold text-slate-900 dark:text-white mb-5 tracking-tight"
         >
-          Shinnosuke Nonaka
+          S.N.
         </motion.p>
 
         <motion.p
